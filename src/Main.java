@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Controllers control = new Controllers();
+        Models control = new Models();
         Scanner scan = new Scanner(System.in);
 
         int opcao;

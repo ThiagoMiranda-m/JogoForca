@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Controllers {
+public class Models {
     ArrayList<String> palavras = new ArrayList<>();
     String palavraSecreta;
     Set<Character> letrasCorretas = new HashSet<>();
